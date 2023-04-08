@@ -1,4 +1,4 @@
-package org.dwcj;
+package org.dwcj.maven.install;
 
 import java.io.IOException;
 import java.net.URI;
